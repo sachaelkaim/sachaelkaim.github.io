@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sachaelkaim.github.io/static/css/main.30a88439.chunk.css",
+    "main.js": "/sachaelkaim.github.io/static/js/main.4c54a958.chunk.js",
+    "main.js.map": "/sachaelkaim.github.io/static/js/main.4c54a958.chunk.js.map",
+    "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.81992a07.js",
+    "runtime-main.js.map": "/sachaelkaim.github.io/static/js/runtime-main.81992a07.js.map",
+    "static/css/2.69121389.chunk.css": "/sachaelkaim.github.io/static/css/2.69121389.chunk.css",
+    "static/js/2.2f3d044d.chunk.js": "/sachaelkaim.github.io/static/js/2.2f3d044d.chunk.js",
+    "static/js/2.2f3d044d.chunk.js.map": "/sachaelkaim.github.io/static/js/2.2f3d044d.chunk.js.map",
+    "index.html": "/sachaelkaim.github.io/index.html",
+    "precache-manifest.563bdfacec925360b7a7549949d6b437.js": "/sachaelkaim.github.io/precache-manifest.563bdfacec925360b7a7549949d6b437.js",
+    "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/sachaelkaim.github.io/static/css/2.69121389.chunk.css.map",
+    "static/css/main.30a88439.chunk.css.map": "/sachaelkaim.github.io/static/css/main.30a88439.chunk.css.map",
+    "static/js/2.2f3d044d.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.2f3d044d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81992a07.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.2f3d044d.chunk.js",
+    "static/css/main.30a88439.chunk.css",
+    "static/js/main.4c54a958.chunk.js"
+  ]
+}
