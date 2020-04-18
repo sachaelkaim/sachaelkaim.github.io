@@ -1,34 +1,19 @@
-import React, { useState } from 'react'
+import React, { Fragment } from 'react'
 import { render } from 'react-dom'
 import { useTrail, animated } from 'react-spring'
 import './App.css'
-
-const items = ['Covid', '19', 'Life']
-const config = { mass: 5, tension: 2000, friction: 200 }
+import AnimationFront from './components/Navbar'
+import Layout from './components/Layout'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  const [toggle, set] = useState(true)
-  const trail = useTrail(items.length, {
-    config,
-    opacity: toggle ? 1 : 0,
-    x: toggle ? 0 : 20,
-    height: toggle ? 80 : 0,
-    from: { opacity: 0, x: 20, height: 0 },
-  })
+
 
   return (
-    <div className="trails-main" onClick={() => set(state => !state)}>
-      <div>
-        {trail.map(({ x, height, ...rest }, index) => (
-          <animated.div
-            key={items[index]}
-            className="trails-text"
-            style={{ ...rest, transform: x.interpolate(x => `translate3d(0,${x}px,0)`) }}>
-            <animated.div style={{ height }}>{items[index]}</animated.div>
-          </animated.div>
-        ))}
-      </div>
-    </div>
+    <Fragment>
+    <Layout />
+    <AnimationFront />
+    </Fragment>
   )
 }
 
