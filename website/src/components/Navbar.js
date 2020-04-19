@@ -1,24 +1,20 @@
 import { render } from 'react-dom'
-import React from 'react'
-import { useSpring, animated } from 'react-spring'
+import React, { useState } from 'react'
+import { useSpring, animated as a } from 'react-spring'
+import '../App.css'
 
-
-export default function AnimationFront() {
-  const props = useSpring({
-    from: { left: '0%', top: '0%', width: '0%', height: '0%', background: 'lightgreen' },
-    to: async next => {
-      while (10) {
-        await next({ left: '0%', top: '0%', width: '100%', height: '100%', background: 'lightblue' })
-        await next({ height: '50%', background: 'lightgreen' })
-        await next({ width: '50%', left: '50%', background: 'lightgoldenrodyellow' })
-        await next({ top: '0%', height: '100%', background: 'lightpink' })
-        await next({ top: '25%', height: '50%', background: 'lightsalmon' })
-        await next({ width: '100%', left: '0%', background: 'lightcoral' })
-        await next({ width: '50%', background: 'lightseagreen' })
-        await next({ top: '0%', height: '100%', background: 'lightskyblue' })
-        await next({ width: '100%', background: 'lightslategrey' })
-      }
-    },
+export default function Viewpager() {
+  const [flipped, set] = useState(false)
+  const { transform, opacity } = useSpring({
+    opacity: flipped ? 1 : 0,
+    transform: `perspective(600px) rotateX(${flipped ? 180 : 0}deg)`,
+    config: { mass: 5, tension: 500, friction: 80 }
   })
-  return <animated.div className="script-box" style={props} />
+  return (
+    <div onClick={() => set(state => !state)}>
+      <a.div class="c back" style={{ opacity: opacity.interpolate(o => 1 - o), transform }} />
+      <a.div class="c front" style={{ opacity, transform: transform.interpolate(t => `${t} rotateX(180deg)`) }} />
+    </div>
+  )
 }
+
