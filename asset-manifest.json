@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/sachaelkaim.github.io/static/css/main.db46856d.chunk.css",
-    "main.js": "/sachaelkaim.github.io/static/js/main.2b8fc7ab.chunk.js",
-    "main.js.map": "/sachaelkaim.github.io/static/js/main.2b8fc7ab.chunk.js.map",
+    "main.css": "/sachaelkaim.github.io/static/css/main.42efd347.chunk.css",
+    "main.js": "/sachaelkaim.github.io/static/js/main.7ed25cde.chunk.js",
+    "main.js.map": "/sachaelkaim.github.io/static/js/main.7ed25cde.chunk.js.map",
     "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.81992a07.js",
     "runtime-main.js.map": "/sachaelkaim.github.io/static/js/runtime-main.81992a07.js.map",
     "static/css/2.69121389.chunk.css": "/sachaelkaim.github.io/static/css/2.69121389.chunk.css",
-    "static/js/2.44e5b42c.chunk.js": "/sachaelkaim.github.io/static/js/2.44e5b42c.chunk.js",
-    "static/js/2.44e5b42c.chunk.js.map": "/sachaelkaim.github.io/static/js/2.44e5b42c.chunk.js.map",
+    "static/js/2.92708d57.chunk.js": "/sachaelkaim.github.io/static/js/2.92708d57.chunk.js",
+    "static/js/2.92708d57.chunk.js.map": "/sachaelkaim.github.io/static/js/2.92708d57.chunk.js.map",
     "index.html": "/sachaelkaim.github.io/index.html",
-    "precache-manifest.e717ff3589bef3cfe3466b45196f0c68.js": "/sachaelkaim.github.io/precache-manifest.e717ff3589bef3cfe3466b45196f0c68.js",
+    "precache-manifest.b88fe037949f08a384b3dc6b8c95a381.js": "/sachaelkaim.github.io/precache-manifest.b88fe037949f08a384b3dc6b8c95a381.js",
     "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/sachaelkaim.github.io/static/css/2.69121389.chunk.css.map",
-    "static/css/main.db46856d.chunk.css.map": "/sachaelkaim.github.io/static/css/main.db46856d.chunk.css.map",
-    "static/js/2.44e5b42c.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.44e5b42c.chunk.js.LICENSE.txt"
+    "static/css/main.42efd347.chunk.css.map": "/sachaelkaim.github.io/static/css/main.42efd347.chunk.css.map",
+    "static/js/2.92708d57.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.92708d57.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sachaelkaim.github.io/static/media/wallpaper.ae436d1a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.81992a07.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.44e5b42c.chunk.js",
-    "static/css/main.db46856d.chunk.css",
-    "static/js/main.2b8fc7ab.chunk.js"
+    "static/js/2.92708d57.chunk.js",
+    "static/css/main.42efd347.chunk.css",
+    "static/js/main.7ed25cde.chunk.js"
   ]
 }
