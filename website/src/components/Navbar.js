@@ -1,19 +1,18 @@
-import { render } from 'react-dom'
-import React, { useState } from 'react'
-import { useSpring, animated as a } from 'react-spring'
+import React from 'react'
+import {Transition} from 'react-spring/renderprops'
 import '../App.css'
 
 export default function Viewpager() {
-  const [flipped, set] = useState(false)
-  const { transform, opacity } = useSpring({
-    opacity: flipped ? 1 : 0,
-    transform: `perspective(600px) rotateX(${flipped ? 180 : 0}deg)`,
-    config: { mass: 5, tension: 500, friction: 80 }
-  })
+  const items = [1,2,3,4]
   return (
-    <div onClick={() => set(state => !state)}>
-      <a.div class="c back" style={{ opacity: opacity.interpolate(o => 1 - o), transform }} />
-      <a.div class="c front" style={{ opacity, transform: transform.interpolate(t => `${t} rotateX(180deg)`) }} />
+    <div>
+    <Transition
+  items={items} keys={item => item.key}
+  from={{ transform: 'translate3d(0,-40px,0)' }}
+  enter={{ transform: 'translate3d(0,0px,0)' }}
+  leave={{ transform: 'translate3d(0,-40px,0)' }}>
+  {item => props => <div style={props}>{item.text}</div>}
+</Transition>
     </div>
   )
 }

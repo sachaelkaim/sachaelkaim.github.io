@@ -5,7 +5,7 @@ function Layout() {
   return (
       <div>
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-    <Navbar.Brand href="#home">ok this works</Navbar.Brand>
+    <Navbar.Brand href="#home">Sacha Elkaim</Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
