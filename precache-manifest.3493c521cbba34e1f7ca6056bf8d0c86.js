@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "464f2c774bf66b847c8ca57914bc2f49",
+    "revision": "55ad135626fbfa227344dc3d04e10a43",
     "url": "/sachaelkaim.github.io/index.html"
   },
   {
-    "revision": "e722883f6475ce2f0fb6",
+    "revision": "5561f1fa24ac35801a1f",
     "url": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "e5849db28ffbc3a1dce1",
+    "revision": "d59acd1a6c3581135ca5",
     "url": "/sachaelkaim.github.io/static/css/main.ece2eb26.chunk.css"
   },
   {
-    "revision": "e722883f6475ce2f0fb6",
-    "url": "/sachaelkaim.github.io/static/js/2.faabd39f.chunk.js"
+    "revision": "5561f1fa24ac35801a1f",
+    "url": "/sachaelkaim.github.io/static/js/2.5e8d787b.chunk.js"
   },
   {
     "revision": "cf89bcfdc86db2c261a743301fbeb514",
-    "url": "/sachaelkaim.github.io/static/js/2.faabd39f.chunk.js.LICENSE.txt"
+    "url": "/sachaelkaim.github.io/static/js/2.5e8d787b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5849db28ffbc3a1dce1",
-    "url": "/sachaelkaim.github.io/static/js/main.a2f473c5.chunk.js"
+    "revision": "d59acd1a6c3581135ca5",
+    "url": "/sachaelkaim.github.io/static/js/main.2622c332.chunk.js"
   },
   {
     "revision": "68e1e6f73b391c9fa2d5",
