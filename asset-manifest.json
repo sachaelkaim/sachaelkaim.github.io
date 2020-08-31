@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/sachaelkaim.github.io/static/css/main.ece2eb26.chunk.css",
-    "main.js": "/sachaelkaim.github.io/static/js/main.1f53e2fe.chunk.js",
-    "main.js.map": "/sachaelkaim.github.io/static/js/main.1f53e2fe.chunk.js.map",
+    "main.js": "/sachaelkaim.github.io/static/js/main.8241a447.chunk.js",
+    "main.js.map": "/sachaelkaim.github.io/static/js/main.8241a447.chunk.js.map",
     "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js",
     "runtime-main.js.map": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js.map",
     "static/css/2.4707e12a.chunk.css": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css",
-    "static/js/2.b3a65958.chunk.js": "/sachaelkaim.github.io/static/js/2.b3a65958.chunk.js",
-    "static/js/2.b3a65958.chunk.js.map": "/sachaelkaim.github.io/static/js/2.b3a65958.chunk.js.map",
+    "static/js/2.507a1e88.chunk.js": "/sachaelkaim.github.io/static/js/2.507a1e88.chunk.js",
+    "static/js/2.507a1e88.chunk.js.map": "/sachaelkaim.github.io/static/js/2.507a1e88.chunk.js.map",
     "index.html": "/sachaelkaim.github.io/index.html",
-    "precache-manifest.55c5f5f9c2ee8f6eab8a54d35d385dea.js": "/sachaelkaim.github.io/precache-manifest.55c5f5f9c2ee8f6eab8a54d35d385dea.js",
+    "precache-manifest.07bb26800605f34d8f82b5ee7b0b7ced.js": "/sachaelkaim.github.io/precache-manifest.07bb26800605f34d8f82b5ee7b0b7ced.js",
     "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.ece2eb26.chunk.css.map": "/sachaelkaim.github.io/static/css/main.ece2eb26.chunk.css.map",
-    "static/js/2.b3a65958.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.b3a65958.chunk.js.LICENSE.txt",
+    "static/js/2.507a1e88.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.507a1e88.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/sachaelkaim.github.io/static/media/background.b84cdbc3.jpg",
     "static/media/concordia-university.jpg": "/sachaelkaim.github.io/static/media/concordia-university.79f25f74.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2592df9d.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.b3a65958.chunk.js",
+    "static/js/2.507a1e88.chunk.js",
     "static/css/main.ece2eb26.chunk.css",
-    "static/js/main.1f53e2fe.chunk.js"
+    "static/js/main.8241a447.chunk.js"
   ]
 }
