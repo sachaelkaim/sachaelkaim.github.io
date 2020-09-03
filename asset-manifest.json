@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sachaelkaim.github.io/static/css/main.d115a4c6.chunk.css",
-    "main.js": "/sachaelkaim.github.io/static/js/main.eef3942c.chunk.js",
-    "main.js.map": "/sachaelkaim.github.io/static/js/main.eef3942c.chunk.js.map",
+    "main.css": "/sachaelkaim.github.io/static/css/main.e7bc4985.chunk.css",
+    "main.js": "/sachaelkaim.github.io/static/js/main.60235dd2.chunk.js",
+    "main.js.map": "/sachaelkaim.github.io/static/js/main.60235dd2.chunk.js.map",
     "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js",
     "runtime-main.js.map": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js.map",
     "static/css/2.4707e12a.chunk.css": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css",
     "static/js/2.0e3c8405.chunk.js": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js",
     "static/js/2.0e3c8405.chunk.js.map": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.map",
     "index.html": "/sachaelkaim.github.io/index.html",
-    "precache-manifest.dde36f75712d09138c8546c87dc05c3a.js": "/sachaelkaim.github.io/precache-manifest.dde36f75712d09138c8546c87dc05c3a.js",
+    "precache-manifest.0d1d616d10d48d6f78e8f4307ef35d7a.js": "/sachaelkaim.github.io/precache-manifest.0d1d616d10d48d6f78e8f4307ef35d7a.js",
     "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.d115a4c6.chunk.css.map": "/sachaelkaim.github.io/static/css/main.d115a4c6.chunk.css.map",
+    "static/css/main.e7bc4985.chunk.css.map": "/sachaelkaim.github.io/static/css/main.e7bc4985.chunk.css.map",
     "static/js/2.0e3c8405.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/sachaelkaim.github.io/static/media/background.b84cdbc3.jpg",
     "static/media/concordia-university.jpg": "/sachaelkaim.github.io/static/media/concordia-university.79f25f74.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.2592df9d.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.0e3c8405.chunk.js",
-    "static/css/main.d115a4c6.chunk.css",
-    "static/js/main.eef3942c.chunk.js"
+    "static/css/main.e7bc4985.chunk.css",
+    "static/js/main.60235dd2.chunk.js"
   ]
 }
