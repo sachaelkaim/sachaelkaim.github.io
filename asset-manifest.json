@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sachaelkaim.github.io/static/css/main.d7988376.chunk.css",
-    "main.js": "/sachaelkaim.github.io/static/js/main.29fc3249.chunk.js",
-    "main.js.map": "/sachaelkaim.github.io/static/js/main.29fc3249.chunk.js.map",
+    "main.css": "/sachaelkaim.github.io/static/css/main.b4dc1077.chunk.css",
+    "main.js": "/sachaelkaim.github.io/static/js/main.403cec6a.chunk.js",
+    "main.js.map": "/sachaelkaim.github.io/static/js/main.403cec6a.chunk.js.map",
     "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js",
     "runtime-main.js.map": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js.map",
     "static/css/2.4707e12a.chunk.css": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css",
     "static/js/2.0e3c8405.chunk.js": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js",
     "static/js/2.0e3c8405.chunk.js.map": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.map",
     "index.html": "/sachaelkaim.github.io/index.html",
-    "precache-manifest.c7aa0255f9982dda430b6ec837a2c0c3.js": "/sachaelkaim.github.io/precache-manifest.c7aa0255f9982dda430b6ec837a2c0c3.js",
+    "precache-manifest.4d22487d0773b3146b70514eab020cac.js": "/sachaelkaim.github.io/precache-manifest.4d22487d0773b3146b70514eab020cac.js",
     "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.d7988376.chunk.css.map": "/sachaelkaim.github.io/static/css/main.d7988376.chunk.css.map",
+    "static/css/main.b4dc1077.chunk.css.map": "/sachaelkaim.github.io/static/css/main.b4dc1077.chunk.css.map",
     "static/js/2.0e3c8405.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/sachaelkaim.github.io/static/media/background.b84cdbc3.jpg",
     "static/media/logo.scss": "/sachaelkaim.github.io/static/media/background4.7562bc5b.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.2592df9d.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.0e3c8405.chunk.js",
-    "static/css/main.d7988376.chunk.css",
-    "static/js/main.29fc3249.chunk.js"
+    "static/css/main.b4dc1077.chunk.css",
+    "static/js/main.403cec6a.chunk.js"
   ]
 }
