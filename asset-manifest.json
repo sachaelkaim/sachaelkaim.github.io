@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sachaelkaim.github.io/static/css/main.575d255e.chunk.css",
+    "main.css": "/sachaelkaim.github.io/static/css/main.8dd69d51.chunk.css",
     "main.js": "/sachaelkaim.github.io/static/js/main.403cec6a.chunk.js",
     "main.js.map": "/sachaelkaim.github.io/static/js/main.403cec6a.chunk.js.map",
     "runtime-main.js": "/sachaelkaim.github.io/static/js/runtime-main.2592df9d.js",
@@ -9,10 +9,10 @@
     "static/js/2.0e3c8405.chunk.js": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js",
     "static/js/2.0e3c8405.chunk.js.map": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.map",
     "index.html": "/sachaelkaim.github.io/index.html",
-    "precache-manifest.a6ad5d424d5af85d4b61d280f2293b15.js": "/sachaelkaim.github.io/precache-manifest.a6ad5d424d5af85d4b61d280f2293b15.js",
+    "precache-manifest.0efd45b75347d422fd06287c24a7befb.js": "/sachaelkaim.github.io/precache-manifest.0efd45b75347d422fd06287c24a7befb.js",
     "service-worker.js": "/sachaelkaim.github.io/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.575d255e.chunk.css.map": "/sachaelkaim.github.io/static/css/main.575d255e.chunk.css.map",
+    "static/css/main.8dd69d51.chunk.css.map": "/sachaelkaim.github.io/static/css/main.8dd69d51.chunk.css.map",
     "static/js/2.0e3c8405.chunk.js.LICENSE.txt": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/sachaelkaim.github.io/static/media/background.b84cdbc3.jpg",
     "static/media/logo.scss": "/sachaelkaim.github.io/static/media/background4.7562bc5b.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.2592df9d.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.0e3c8405.chunk.js",
-    "static/css/main.575d255e.chunk.css",
+    "static/css/main.8dd69d51.chunk.css",
     "static/js/main.403cec6a.chunk.js"
   ]
 }
