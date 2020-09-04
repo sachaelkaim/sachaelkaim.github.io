@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0cd5fa0b9059291afd2855e475e7858",
+    "revision": "e2b92e8b68aa68e2b73f4c4200030244",
     "url": "/sachaelkaim.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sachaelkaim.github.io/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "9e5a268da18d0a271101",
-    "url": "/sachaelkaim.github.io/static/css/main.8dd69d51.chunk.css"
+    "revision": "710facb1a507f4c4c28d",
+    "url": "/sachaelkaim.github.io/static/css/main.32164431.chunk.css"
   },
   {
     "revision": "6ed6df63a7af1590a5e2",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sachaelkaim.github.io/static/js/2.0e3c8405.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e5a268da18d0a271101",
+    "revision": "710facb1a507f4c4c28d",
     "url": "/sachaelkaim.github.io/static/js/main.403cec6a.chunk.js"
   },
   {
